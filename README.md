@@ -5,4 +5,5 @@ I wanted to make a random number generator, because I hear a popular high school
 
 # How to use: 
 npm install readline
+
 node index.js
